@@ -1,4 +1,4 @@
-const path = require('path')
+const path = require('path');
 
 module.exports = {
     // Inform webpack that we are building a bundle
@@ -18,6 +18,15 @@ module.exports = {
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'build')
+    },
+
+    // Tell webpack to run babel on every file it runs through
+    module: {
+        rule: [
+            {
+                test: /\.js?$/,
+            }
+        ]
     }
 
 }
