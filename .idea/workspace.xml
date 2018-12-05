@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d7eaa9-1b0f-4b65-a052-506e78e62a39" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/client/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/client/client.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -179,12 +176,12 @@
       <updated>1543901605042</updated>
       <workItem from="1543901606521" duration="1581000" />
       <workItem from="1543945133848" duration="21000" />
-      <workItem from="1543982945995" duration="2404000" />
+      <workItem from="1543982945995" duration="2461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4006000" />
+    <option name="totallyTimeSpent" value="4063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="681" y="23" width="759" height="877" extended-state="0" />
@@ -197,7 +194,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32893" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/src/client/client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
