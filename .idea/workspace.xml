@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d7eaa9-1b0f-4b65-a052-506e78e62a39" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/webpack.client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.client.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.client.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,6 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/client.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/client/Home.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,8 +48,8 @@
       <file leaf-file-name="webpack.client.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack.client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="-35">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -162,12 +167,12 @@
       <updated>1543901605042</updated>
       <workItem from="1543901606521" duration="1581000" />
       <workItem from="1543945133848" duration="21000" />
-      <workItem from="1543982945995" duration="1444000" />
+      <workItem from="1543982945995" duration="1537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3046000" />
+    <option name="totallyTimeSpent" value="3139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="681" y="23" width="759" height="877" extended-state="0" />
@@ -269,9 +274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/client/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -286,10 +288,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/client.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="-35">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
