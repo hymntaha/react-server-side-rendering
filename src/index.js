@@ -6,13 +6,23 @@ import Home from './client/components/Home';
 
 const app = express();
 
-
+app.use(express.static('public'));
 
 app.get('/', (req,res) =>{
     const content = renderToString('</Home />');
 
+    const html = `
+        <html>
+            <body>
+                <div>
+                    ${content}
+                    <script src="bundle.js"></script>
+                </div>
+            </body>
+        </html>
+    `;
 
-    res.send(content);
+    res.send(html);
 });
 
 app.listen(3000, ()=> {
