@@ -13,6 +13,7 @@ app.get('/', (req,res) =>{
 
     const html = `
         <html>
+            <head></head>
             <body>
                 <div>
                     ${content}
